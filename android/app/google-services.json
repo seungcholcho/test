@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942196924443",
+    "project_id": "bottlecap-codelogger",
+    "storage_bucket": "bottlecap-codelogger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942196924443:android:a662fc46976aee54bc58be",
+        "android_client_info": {
+          "package_name": "com.example.codelogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942196924443-gs08hu5bmup78hnngogdls9skmjc7pid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaE9eVbG_d2mx6M29Itb7FFSqSeYRgoe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942196924443-gs08hu5bmup78hnngogdls9skmjc7pid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
